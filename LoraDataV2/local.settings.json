@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "hubString": "HostName=multitechmn.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=xoSKRn8yb1AxNsd156u8VBWN11CfbwlJmZimaO2/FxI=",
+    "eventHubName": "loradata",
+    "eventHubStr": "Endpoint=sb://multitech.servicebus.windows.net/;SharedAccessKeyName=owner;SharedAccessKey=FrvZEysE1nN39wOFvYADIo58eUisyK0hNnvZsFm/BFc=;EntityPath=loradata"
+
+  }
+}
